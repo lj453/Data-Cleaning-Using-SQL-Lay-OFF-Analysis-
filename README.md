@@ -1,4 +1,4 @@
-Data Cleaning in MySQL for Layoff Dataset
+# **Data Cleaning in MySQL for Layoff Dataset**
 
 Overview
 This repository provides a comprehensive guide and scripts for cleaning and preparing a layoff dataset using MySQL. Layoff datasets often contain various inconsistencies, missing values, and errors that need to be addressed before performing any meaningful analysis. The provided scripts offer a step-by-step approach to clean the data efficiently, ensuring its reliability and accuracy for further analysis.
