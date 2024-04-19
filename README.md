@@ -8,9 +8,9 @@ The layoff dataset used in this project comprises information about layoffs from
 
 ## **Data Cleaning Process**
 
-**Data Exploration**: We begin by exploring the dataset to understand its structure, identify potential issues, and gain insights into the data distribution.
-**Handling Missing Values**: Missing values are a common issue in datasets and can significantly impact analysis results. We employ various techniques, such as imputation or removal, to handle missing values appropriately.
-**Dealing with Duplicates**: Duplicate entries can skew analysis results and should be addressed. We detect and remove duplicate records to ensure data integrity.
-**Standardizing Formats**: Inconsistent formatting of data, such as dates or company names, can make analysis challenging. We standardize formats to ensure consistency across the dataset.
-**Correcting Errors**: Data entry errors and inconsistencies are corrected to improve the accuracy of the dataset. This includes fixing typos, reconciling conflicting information, and validating data against external sources where applicable.
+**Data Exploration**: We begin by exploring the dataset to understand its structure, identify potential issues, and gain insights into the data distribution.<br>
+**Handling Missing Values**: Missing values are a common issue in datasets and can significantly impact analysis results. We employ various techniques, such as imputation or removal, to handle missing values appropriately.<br>
+**Dealing with Duplicates**: Duplicate entries can skew analysis results and should be addressed. We detect and remove duplicate records to ensure data integrity.<br>
+**Standardizing Formats**: Inconsistent formatting of data, such as dates or company names, can make analysis challenging. We standardize formats to ensure consistency across the dataset.<br>
+**Correcting Errors**: Data entry errors and inconsistencies are corrected to improve the accuracy of the dataset. This includes fixing typos, reconciling conflicting information, and validating data against external sources where applicable.<br>
 **Data Transformation**: Data may need to be transformed or aggregated to facilitate analysis. We perform necessary transformations, such as calculating metrics or aggregating data at different levels, to prepare the dataset for analysis.
